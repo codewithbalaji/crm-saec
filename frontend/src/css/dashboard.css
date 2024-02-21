@@ -1,0 +1,18 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+  }
+ 
+.btn.btn-d{
+   background-color: lightgray;
+   width: 200px;
+   height: 200px;
+   margin-top: 40%;
+}
+.btn.btn-d:hover{
+    background-color: gray;
+}
+.box-head{
+    font-weight: bold;
+}
